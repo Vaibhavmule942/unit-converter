@@ -1,0 +1,48 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	
+
+	
+}
+
+div{
+
+	background-image: url(./image.jpg);
+}
+
+	
+
+label {
+	display: block;
+	margin-bottom: 10px;
+	/* background-color: coral; */
+}
+
+input[type="text"] {
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+button {
+	padding: 5px 10px;
+	border-radius: 5px;
+	border: none;
+	background-color: #4286f4;
+	color: #fff;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #2d5cb5;
+}
+
+#result {
+	margin-top: 20px;
+	font-weight: bold;
+}
